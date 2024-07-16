@@ -1,6 +1,7 @@
 # Project Title
 
-A Story Generator App that generates a picture and a story according to user's prompt
+A [Story Generator App](https://storygen-5pndgmrdkgxqdx2vsntuca.streamlit.app/) that generates a picture and a story according to user's prompt
+
 
 ## Badges
 
